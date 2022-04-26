@@ -30,6 +30,8 @@ Think TCPDump and Wireshark re-invented for Kubernetes.
 
 You can run Mizu on any Kubernetes cluster (version of 1.16.0 or higher) in a matter of seconds. See the [Mizu Getting Started Guide](https://getmizu.io/docs/) for how.
 
+For a preview of the Mizu environment, visit the [Mizu Application Tour](https://up9.com/docs/application-tourhttps://up9.com/docs/application-tour).
+
 For more comprehensive documentation, start with the [docs](https://getmizu.io/docs/mizu/mizu-cli).
 
 ## Working in this repo
